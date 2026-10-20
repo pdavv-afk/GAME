@@ -1,0 +1,26 @@
+body {
+    background-color: #FFFFE0; /* warna hitam pekat */
+    font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca */
+    color: #191970; /* warna teks utama (putih) */
+{
+
+kartu-profil {
+  width: 300px;
+  margin: 60px auto; /* 60px jarak atas/bawah, auto menengahkan kiri/kanan */
+  padding: 20px;
+  background-color: white;
+  broder-radius: 15px; /* membuat sudut menjadi melengkung */
+  box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
+{
+|
+
+  kartu-profil img {
+    width: 150px;
+    broder-rasius: 50%; /* trik untuk membuat gambar dari persegi menjadi lingkaran sempurna */
+  }
+  kartu-profil {
+    /* #191970; */
+    teks-align: center; /* menengahkan semua teks didalam kartu */
+  }
+
+  
